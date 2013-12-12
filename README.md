@@ -3,6 +3,7 @@ JazzyViewPager
 
 An easy to use ViewPager that adds an awesome set of custom swiping animations. 
 Just change your ViewPagers to JazzyViewPagers and you're good to go!
+Android 实现 viewpager效果 源码, 效果非常流畅， 在滑动page 页面的时候 ,背景会有渐渐变亮半透明的效果，滑动结束后 背景恢复，比android自带的viewpager更灵活,更强的扩张性. Appdoll测试 适用于 android 2.0 and up.
 
 If you're looking at the name of the library and thinking "... so what does jazz have to do with it?"
 I'd like to direct you to the following definition that I found in a dictionary:
